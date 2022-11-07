@@ -10,10 +10,9 @@
 		"55900000000@s.whatsapp.net"
 	],
 	"Propietario": "XaX/angel",
-	"MyPais": "51",
+	"MyPais": "52",
 	"MiembrosMinimoEnUnGrupo": "3",
 	"LimiteParaUsarComandos": "20",
-	"TusRedesSociales":nt
-	"ApiRest": "https://latam-api.vercel.app/",
+	"ApiRest": "https://latam-api.vercel.app/"
         "CtrlG": ""
 }
